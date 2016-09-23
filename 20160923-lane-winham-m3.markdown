@@ -2,11 +2,9 @@
 
 ## Individual
 
-### Areas of Emphasis(fill_me_in)
+### Areas of Emphasis
 
-* for mod 3
-
-* I set out to strengthen my technical skills during module 2. I want to do this by working until I feel comfortable with the material the first time around, not repeating. I would also like to start going to community meet-ups and expand my knowledge of the the community outside of the dungeon. In addition to learning rails I want to continue to work on my foundation in ruby and use this six weeks to get as strong as I can. I cannot say that I completed all of these goals but I do believe I am in a position where I can. I have identified factors that need to be in place for me to continually push forward and by doing this my skills and confidence with surely grow.
+* I set out to grow and strengthen my skills that I have learned thus far at Turing. I also would like to improve my level of confidence pertaining to writing code. I plan to do this by gathering a deep understanding of the material through practice and repetition before moving onto the next topic.
 
 ### End of Module Assessment
 
@@ -14,7 +12,8 @@
 
 ##### Notes:
 
-* put here
+* Made decisions based on perceived importance
+* Watch naming of method names and variables
 
 
 ### Evaluation Criteria
@@ -112,10 +111,6 @@
 
 * This project was designed to teach my group how to preplan and manipulate brown field projects into a new but similar purpose.
 
-#### Notes:
-
-* notes here
-
 #### Client Evaluation
 
 ##### Evaluator: Sally
@@ -177,7 +172,6 @@
 
 * Could have used more serializers
 * Refactor query methods into partial methods
-* 
 
 ##### Assessor: Sally
 
@@ -202,8 +196,6 @@
 ### 4. Queries
 
 * 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
-
-
 
 ## D: Professional Skills
 
@@ -233,7 +225,6 @@
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/job_search_strategy.md)
 
 * Prioritize what you want out of a work environment and how to potentially locate that. How to revaluate and see if your criteria is to rigid or if the tactics you are using are not applicable.
-
 
 #### Innovative Problem Solving
 
@@ -288,6 +279,14 @@ You contribute meaningfully to the project, but I think you could have been more
 * Communicating with cohort members to diffuse issues
 
 ------------------
+
+### Self Evaluation
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
 
 ## Final Review
 
